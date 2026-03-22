@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Eleonora Ortega
 ### **Quality Engineering Lead | Senior SDET**
+> **Note on GitHub Activity:** My professional contributions over the past several years have been conducted within private corporate environments (MuleSoft, Chevron, etc.). Therefore, my public contribution graph does not reflect my daily technical output or architectural leadership.
 
 Expert in designing and scaling automated quality frameworks for high-stakes, regulated environments. With over 15 years of experience, I specialize in transforming testing from a bottleneck into a **continuous delivery enabler**.
 
